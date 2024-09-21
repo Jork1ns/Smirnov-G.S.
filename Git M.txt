@@ -1,2 +1,2 @@
-Пока
-Увидимся!
+a = int(input))
+b = int(input))
